@@ -1,1 +1,1 @@
-[![hyblox.spook.bio](https://hyblox.spook.bio/MainLogo.png)]
+[![hyblox.spook.bio](https://hyblox.spook.bio/HybloxLogo.png)]
